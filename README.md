@@ -1,5 +1,3 @@
-Imagine a world where farmers or gardeners can easily identify and treat plant diseases before they spread. We're developing a clever system that can identify disease by analyzing photos of leaves. The computer learns to identify patterns linked to different leaf diseases by utilizing a large volume of data for training. With the use of this technology, gardeners will be able to quickly and accurately detect and treat plant health problems, ultimately assisting in crop protection and increased agricultural yields.
-
 Dataset:
 The dataset was chosen from Kaggle. This particular dataset includes 4 different diseases of apple leaves. The dataset size for each classification is around 1800 to 2000.
 
